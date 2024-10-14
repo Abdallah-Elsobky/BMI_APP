@@ -33,10 +33,10 @@ To run this application locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abdallah-Elsobky/BMI-Calculator.git
+   git clone https://github.com/Abdallah-Elsobky/BMI_APP.git
 2. Navigate to the project directory:
    ```bash
-   cd BMI-Calculator
+   cd BMI_APP
 3. Install the dependencies:
    ```bash
    flutter pub get
