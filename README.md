@@ -32,6 +32,8 @@ A new Flutter project.
 
 <img src="https://github.com/user-attachments/assets/57d01262-efea-4e2b-a275-6db49c1f10da" alt="BMI Calculator " width="100" />
 
+<img src="https://github.com/user-attachments/assets/594d302d-d8b9-47f7-9f61-530889ffe5b6" alt="BMI Calculator " width="100" />
+
 <img src="https://github.com/user-attachments/assets/eb148761-ba57-4d67-8883-5a59ee3f2809" alt="BMI Calculator " width="100" />
 
 ## Getting Started
