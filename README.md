@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+## Light Mode
+
 <img src="https://github.com/user-attachments/assets/a496eaad-16ca-4f88-9963-f5ea485110ce" alt="BMI Calculator " width="100" />
 
 <img src="https://github.com/user-attachments/assets/1ee89a37-742b-4760-82a7-38b8097878a9" alt="BMI Calculator " width="100" />
@@ -16,22 +18,21 @@ A new Flutter project.
 
 <img src="https://github.com/user-attachments/assets/fd4732c7-44a9-4406-a084-b9be980aa70e" alt="BMI Calculator" width="100" />
 
+## Dark Mode
+
 <img src="https://github.com/user-attachments/assets/943ef830-cdba-4528-b986-dedf1752de66" alt="BMI Calculator" width="100" />
 
 <img src="https://github.com/user-attachments/assets/1a8785b7-2846-48bb-a25c-9a3112449ebc" alt="BMI Calculator" width="100" />
 
-
-
-<img src="https://github.com/user-attachments/assets/eb148761-ba57-4d67-8883-5a59ee3f2809" alt="BMI Calculator " width="100" />
-
-<img src="https://github.com/user-attachments/assets/57d01262-efea-4e2b-a275-6db49c1f10da" alt="BMI Calculator " width="100" />
-
-<img src="https://github.com/user-attachments/assets/02ba2e8c-e72f-483e-adfb-006ed86ddbfa" alt="BMI Calculator " width="100" />
+<img src="https://github.com/user-attachments/assets/916f599e-a486-4038-b241-8b808853b834" alt="BMI Calculator " width="100" />
 
 <img src="https://github.com/user-attachments/assets/521df714-1d43-4e2b-9f92-0e29075ecc9b" alt="BMI Calculator " width="100" />
 
-<img src="https://github.com/user-attachments/assets/916f599e-a486-4038-b241-8b808853b834" alt="BMI Calculator " width="100" />
+<img src="https://github.com/user-attachments/assets/02ba2e8c-e72f-483e-adfb-006ed86ddbfa" alt="BMI Calculator " width="100" />
 
+<img src="https://github.com/user-attachments/assets/57d01262-efea-4e2b-a275-6db49c1f10da" alt="BMI Calculator " width="100" />
+
+<img src="https://github.com/user-attachments/assets/eb148761-ba57-4d67-8883-5a59ee3f2809" alt="BMI Calculator " width="100" />
 
 ## Getting Started
 
